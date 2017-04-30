@@ -4,3 +4,5 @@ Computer Vision has become ubiquitous in our society, with applications in searc
 Assignment #1: Image Classification, kNN, SVM, Softmax
 Assignment #2: Neural Networks, ConvNets I
 Assignment #3: ConvNets II, Transfer Learning, Visualization
+
+[参考](http://www.jianshu.com/p/182baeb82c71)
